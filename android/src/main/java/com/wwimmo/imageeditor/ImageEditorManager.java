@@ -50,7 +50,7 @@ public class ImageEditorManager extends SimpleViewManager<ImageEditor> {
     private static final String PROPS_LOCAL_SOURCE_IMAGE = "localSourceImage";
     private static final String PROPS_TEXT = "text";
     private static final String PROPS_SHAPE_CONFIGURATION = "shapeConfiguration";
-    private static final boolean PROPS_GESTURES_ENABLED = "gesturesEnabled";
+    private static final String PROPS_GESTURES_ENABLED = "gesturesEnabled";
 
     @Override
     public String getName() {
